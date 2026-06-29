@@ -12,7 +12,7 @@ class Solution:
             m =isBadVersion(mid)
             if m is True and n is False:
                 return mid          
-            elif m is False:
+            if m is False:
                 left = mid + 1
             elif m is True :
                 right=mid-1
