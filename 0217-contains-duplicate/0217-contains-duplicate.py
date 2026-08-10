@@ -1,6 +1,6 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        l=[]
+        '''l=[]
         l=sorted(nums)
         if len(nums)==1:
             return False
@@ -8,6 +8,8 @@ class Solution:
             if l[i]==l[i+1]:
                 return True
         else:
-            return False
+            return False'''
+        
+        return len(set(nums))!=len(nums)
 
         
