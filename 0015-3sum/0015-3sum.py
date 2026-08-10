@@ -7,7 +7,6 @@ class Solution:
         for i in range(len(nums) - 2):
 
             # Duplicate first element skip
-            
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
 
