@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2418-sort-the-people) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2418-sort-the-people) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
 | ------- |
@@ -120,10 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## String
 |  |
 | ------- |
