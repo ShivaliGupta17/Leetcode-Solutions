@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Quickselect
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [2418-sort-the-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 ## Recursion
