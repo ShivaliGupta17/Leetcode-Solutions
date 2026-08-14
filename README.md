@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Array
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Quickselect
 |  |
