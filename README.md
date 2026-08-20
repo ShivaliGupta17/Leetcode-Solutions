@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [3794-reverse-string-prefix](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Quickselect
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [2418-sort-the-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2418-sort-the-people) |
+| [3794-reverse-string-prefix](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Recursion
 |  |
