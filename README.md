@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2965-find-missing-and-repeated-values](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2418-sort-the-people) |
+| [2965-find-missing-and-repeated-values](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Database
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2965-find-missing-and-repeated-values](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
