@@ -7,5 +7,5 @@ class Solution:
             s[left],s[right]=s[right],s[left]
             left+=1
             right-=1
-        return "".join(s[i] for i in range(len(s)))
+        return "".join(s)
         
