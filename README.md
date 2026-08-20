@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0881-boats-to-save-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3884-first-matching-character-from-both-ends](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Quickselect
@@ -182,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
