@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## String
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
