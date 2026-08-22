@@ -17,6 +17,8 @@
         return slow-1"""
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
+        if not nums:
+            return 0
         slow = 1
         count = 1
 
