@@ -1,4 +1,4 @@
-class Solution:
+'''class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         s=''
         l1=0
@@ -19,6 +19,18 @@ class Solution:
 
         s=s+word1[l1:]
         s=s+word2[l2:]
-        return s
+        return s'''
+
+class Solution:
+    def mergeAlternately(self, word1: str, word2: str) -> str:
+        ans = []
+
+        for i in range(max(len(word1), len(word2))):
+            if i < len(word1):
+                ans.append(word1[i])
+            if i < len(word2):
+                ans.append(word2[i])
+
+        return ''.join(ans)
 
         
