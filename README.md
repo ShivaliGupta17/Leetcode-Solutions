@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Quickselect
