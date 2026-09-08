@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3842-toggle-light-bulbs](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3842-toggle-light-bulbs](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Database
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3842-toggle-light-bulbs](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3842-toggle-light-bulbs](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
 | ------- |
