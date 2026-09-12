@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1268-search-suggestions-system](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Array
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1268-search-suggestions-system](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1268-search-suggestions-system](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1268-search-suggestions-system](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Merge Sort
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [1268-search-suggestions-system](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1768-merge-strings-alternately](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2418-sort-the-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [3794-reverse-string-prefix](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
@@ -239,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1051-height-checker) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
