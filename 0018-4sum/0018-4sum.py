@@ -16,4 +16,4 @@ class Solution:
                         right-=1
                     elif sums<target:
                         left+=1
-        return list(result)
+        return [list(i) for i in result]
