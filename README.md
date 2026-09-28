@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1051-height-checker) |
 ## Two Pointers
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1268-search-suggestions-system](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1094-car-pooling) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
