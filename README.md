@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2418-sort-the-people](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Memoization
 |  |
 | ------- |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShivaliGupta17/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
